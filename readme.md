@@ -12,8 +12,9 @@ Next, I plan to add automated testing for the data's relevancy, coverage, and ac
 4. Use all-MiniLM-L6-v2 as data model
 
 ## Data  
-Number of data points: 50
-Source: https://www.radiotimes.com/quizzes/pub-quiz-science/Format: CSV [Question, Answer]
-Data is limited due to time and resource limitations.
+Number of data points: 50  
+Source: https://www.radiotimes.com/quizzes/pub-quiz-science/  
+Format: CSV [Question, Answer]  
+Data is limited due to time and resource limitations.  
 Coverage of topics and quality of responses is determined by scope of questions and quality of answers.
 
