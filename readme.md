@@ -1,7 +1,7 @@
 # KNN-based Chatbot Answering Science Trivia Questions
 
 ## Background
-This is a POC for a simple chatbot based on KNN. The data used is limited, with no consideration for performance or parallel processing.  
+This is a POC for a simple chatbot based on KNN. The data used is limited, with no consideration for performance or parallel processing. To test the bot, please use smart_answer.py directly. 
 
 Next, I plan to add automated testing for the data's relevancy, coverage, and accuracy. I also want to add assessments for data quality based on authority level and subject expert/machine learning evaluation.
 
